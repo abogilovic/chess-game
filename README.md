@@ -1,2 +1,2 @@
 # chessgame
-Just a python chess game script
+Just a python chess game class
